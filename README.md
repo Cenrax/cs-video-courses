@@ -847,6 +847,7 @@ Table of Contents
 - [The Building Blocks of a Quantum Computer: Part 1 - TU Delft](https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-1/)
 - [The Building Blocks of a Quantum Computer: Part 2 - TU Delft](https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-2/)
 - [Quantum Cryptography - TU Delft](https://ocw.tudelft.nl/courses/quantum-cryptography/)
+- [Quantum Computing - Cern](https://indico.cern.ch/event/970904/)
 
 ------------------------------
 
